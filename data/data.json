@@ -1,0 +1,14 @@
+{
+    "home": {
+        "header": "Home Content",
+        "body": "Body Content"
+    },
+    "about": {
+        "header": "About Content #2",
+        "body": "Body Content"
+    },
+    "inventory": {
+        "header": "Inventory Content #2",
+        "body": "Body Content"
+    }
+}
