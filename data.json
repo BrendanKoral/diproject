@@ -8,7 +8,7 @@
         "body": "Body Content"
     },
     "inventory": {
-        "header": "Inventory Content #2",
-        "body": "Body Content"
+        "header": "Inventory Header",
+        "body": "The body is here"
     }
 }
